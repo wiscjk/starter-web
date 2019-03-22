@@ -14,3 +14,7 @@ This is a simple web project, deployment can be on any web server or local file 
 
 
 # How To Contribute
+
+### Copyright
+
+2019 Git Training
