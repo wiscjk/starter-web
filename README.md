@@ -14,6 +14,7 @@ This is a simple web project, deployment can be on any web server or local file 
 
 
 # How To Contribute
+Learn all about git and more by issuing pull requests
 
 ### Copyright
 
