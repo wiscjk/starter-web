@@ -19,4 +19,4 @@ Learn all about git and more by issuing pull requests
 
 ### Copyright
 
-2019 Git Training
+2019 Git Training. Allrights reserved.
