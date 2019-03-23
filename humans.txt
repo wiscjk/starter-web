@@ -7,7 +7,7 @@
 
 # THANKS
 
-    To all the hardwork!
+    To all the hardwork! And it may be time to switch gears and learn on python or java.
 
 # TECHNOLOGY COLOPHON
 
